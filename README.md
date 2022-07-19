@@ -1,1 +1,1 @@
-# graphQL
+graphQL学習用。
